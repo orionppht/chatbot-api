@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: chatbot-api-demo-app
+  profiles:
+    active: dev
